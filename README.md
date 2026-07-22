@@ -4,6 +4,10 @@ First Class Computer Science Graduate from Middlesex University | Full-Stack Dev
 Building web and mobile applications with TypeScript, JavaScript, React, Node.js, and React Native.
 
 🔍 Open to Graduate Software Engineer and Full-Stack Developer opportunities in the UK.
+
+## 📊 GitHub Stats
+
+![Lavisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaviM708&show_icons=true&theme=default)
 <!--
 **LaviM708/LaviM708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

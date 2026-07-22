@@ -1,8 +1,9 @@
 ## Hi there 👋
-First Class CS Graduate from Middlesex University | Full-Stack Developer
-building web and mobile apps with JavaScript · TypeScript · React · Node.js
 
-🔍 Open to Graduate Software Engineer and Full-Stack Developer roles in the UK
+First Class Computer Science Graduate from Middlesex University | Full-Stack Developer
+Building web and mobile applications with TypeScript, JavaScript, React, Node.js, and React Native.
+
+🔍 Open to Graduate Software Engineer and Full-Stack Developer opportunities in the UK.
 <!--
 **LaviM708/LaviM708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

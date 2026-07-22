@@ -9,7 +9,7 @@ Building web and mobile applications with TypeScript · JavaScript · React · N
 
 ## 🛠️ Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaviM708&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaviM708&layout=compact&hide_border=true)
 
 ---
 

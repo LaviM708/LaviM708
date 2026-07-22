@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Lavisha Bhagnani 👋
 
 First Class Computer Science Graduate from Middlesex University | Full-Stack Developer
 Building web and mobile applications with TypeScript, JavaScript, React, Node.js, and React Native.
@@ -7,7 +7,7 @@ Building web and mobile applications with TypeScript, JavaScript, React, Node.js
 
 ## 📊 GitHub Stats
 
-![Lavisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaviM708&show_icons=true&theme=default)
+[![Lavisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaviM708&show_icons=true&theme=default)](https://github-stats-extended.vercel.app/api/top-langs?username=LaviM708&layout=compact&hide_title=true&langs_count=10&hide_values=true&theme=codeSTACKr)
 <!--
 **LaviM708/LaviM708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
